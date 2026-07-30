@@ -1,10 +1,10 @@
-# 💻 Projetos em C++
+# Projetos em C++
 
 Repositório com projetos desenvolvidos em linguagem **C++**.
 
 ---
 
-# 📂 Projetos
+#  Projetos
 
 ##  Casa de Câmbio
 
@@ -22,11 +22,11 @@ Sistema de conversão de moedas desenvolvido em C++, permitindo converter valore
 
 ---
 
-## 🎮 Jogo da Forca
+## Jogo da Forca
 
 Implementação do clássico jogo da forca em C++, desenvolvido para dois jogadores. Um jogador escolhe a palavra secreta enquanto o outro tenta descobri-la antes que as tentativas acabem.
 
-### 🚀 Funcionalidades
+### Funcionalidades
 
 - Modo para dois jogadores
 - Definição de palavra secreta
@@ -36,7 +36,7 @@ Implementação do clássico jogo da forca em C++, desenvolvido para dois jogado
 
 ---
 
-# 💻 Tecnologias utilizadas
+# Tecnologias utilizadas
 
 - C++
 - VS Code
