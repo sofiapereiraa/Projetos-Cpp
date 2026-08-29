@@ -41,3 +41,20 @@ Implementação do clássico jogo da forca em C++, desenvolvido para dois jogado
 - C++
 - VS Code
 - G++
+
+---
+
+# Sistema de Atendimento de Clínica
+
+Sistema desenvolvido para gerenciamento do atendimento de pacientes, utilizando fila de prioridade e lista encadeada.
+
+### Funcionalidades
+
+- Cadastro de pacientes
+- Validação de nome, idade e CPF
+- Classificação por prioridade
+- Organização da fila de atendimento
+- Chamada do próximo paciente
+- Remoção do paciente atendido
+
+ ---
