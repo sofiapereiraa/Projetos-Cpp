@@ -59,7 +59,7 @@ Sistema desenvolvido para gerenciamento do atendimento de pacientes, utilizando 
 
  ---
 
- ## 🕵️ Detetive - ERROR 404
+ ## Detetive - ERROR 404
 
 Jogo de investigação desenvolvido em C++, onde o jogador deve analisar pistas, interrogar suspeitos e descobrir o responsável por uma série de mortes.
 
