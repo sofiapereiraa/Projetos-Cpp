@@ -35,4 +35,4 @@ Cada carro cadastrado possui:
 Compile o arquivo utilizando um compilador C++ como o **G++**:
 
 ```bash
-g++ concessionaria.cpp -o concessionaria.exe
+g++ carro.cpp -o carro.exe
