@@ -58,3 +58,16 @@ Sistema desenvolvido para gerenciamento do atendimento de pacientes, utilizando 
 - Remoção do paciente atendido
 
  ---
+
+ ## Detetive - ERROR 404
+
+Jogo de investigação desenvolvido em C++, onde o jogador deve analisar pistas, interrogar suspeitos e descobrir o responsável por uma série de mortes.
+
+### Funcionalidades
+
+- Investigação de ambientes
+- Análise de pistas
+- Interrogatório de personagens
+- Sistema de acusação
+- História interativa
+- Menu no terminal
