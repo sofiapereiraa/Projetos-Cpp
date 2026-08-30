@@ -71,3 +71,20 @@ Jogo de investigação desenvolvido em C++, onde o jogador deve analisar pistas,
 - Sistema de acusação
 - História interativa
 - Menu no terminal
+
+---
+
+## Sistema de Concessionária
+
+Sistema de gerenciamento de veículos desenvolvido em C++, com funcionalidades de cadastro, busca, edição e remoção de carros.
+
+### Funcionalidades
+
+- Cadastro de veículos
+- Listagem de carros
+- Busca por ID
+- Edição de informações
+- Remoção de veículos
+- Validação de dados
+
+---
